@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jahangir A. Rana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Jahangir A. Rana
 ========================================================================================================================================
 
-Frontend Developer
+Front-End Developer
 ------------------
 
-I am a frontend developer who love coding...!
+I am a front-end developer who love coding...!
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [jalombd709@gmail.com](mailto:jalombd709@gmail.com)
-* 🚀  I'm currently working on [Ghost CMS](http://ghost.org/)
+* 🚀  I'm currently working on [Ghost CMS](https://ghost.org/)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Coder, Tell Everyone
